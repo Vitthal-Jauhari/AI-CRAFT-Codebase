@@ -38,7 +38,7 @@ void micTask(void *parameter);
 const char *ssid = "OnePlus Nord 3 5G";
 const char *password = "12345678";
 
-const char *websocket_server_host = "10.27.78.151";
+const char *websocket_server_host = "10.134.10.151";
 const uint16_t websocket_server_port = 42069; // <WEBSOCKET_SERVER_PORT>
 
 using namespace websockets;

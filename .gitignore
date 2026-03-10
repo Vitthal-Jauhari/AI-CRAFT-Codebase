@@ -6,6 +6,10 @@ hand_landmarker.task
 */sample.m4a
 */output.wav
 
+*.wav
+*.raw
+*.m4a
+
 # Python
 __pycache__/
 *.py[cod]
